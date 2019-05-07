@@ -1,5 +1,5 @@
 
-Running our first python program from an editor
+#Running our first python program from an editor
 
 creat folder, py_yyc
 create file, hello_world.py
