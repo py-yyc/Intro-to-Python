@@ -2,7 +2,7 @@
 For Beginners by a Beginner. 
 
 
-This is an introduction to python were we will set up and run a couple of simple python programs.
+This is an introduction to Python were we will set up and run a couple of simple Python programs.
 
 This talk should show you how accessible Python is and wlak through getting started. Everyone is welcome to attend. 
 
